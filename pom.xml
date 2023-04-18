@@ -93,7 +93,7 @@
 		
 	</dependencies>
 	
-/*	<distributionManagement>
+	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
@@ -107,7 +107,7 @@
 	      <url>http://13.233.115.22:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>*/
+	</distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
